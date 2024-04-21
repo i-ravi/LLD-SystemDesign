@@ -14,7 +14,7 @@ Applications :
 - Smart References: Manage additional functionalities like reference counting or error handling.
 
 ### Class Diagram
-![ClassDiagram](https://github.com/i-ravi/SystemDesign/blob/main/ProxyDesignPattern/Diagram/ClassDiagram.png)
+![ClassDiagram](https://github.com/i-ravi/SystemDesign/blob/main/ProxyDesignPattern/diagram/ProxyClassDiagram.png)
 
 ## Observable Design Pattern
 The Observable design pattern establishes a relationship between objects where one object (the observable or subject) notifies its dependents (observers) of any state changes, enabling them to react accordingly. This pattern promotes loose coupling by allowing observers to subscribe to or unsubscribe from the observable without requiring direct knowledge of its implementation. It's commonly used in event-driven architectures, GUI frameworks, and reactive programming paradigms to facilitate efficient communication and update propagation within software systems.
@@ -27,4 +27,4 @@ Applications :
 - Monitoring and Logging Systems: Tracking system events and gathering performance metrics by subscribing to specific events or log entries.
 - Reactive Programming: Reacting to changes in data streams in reactive programming paradigms, enabling responsive and scalable applications.
 
-![ClassDiagram](https://github.com/i-ravi/SystemDesign/blob/main/ObservableDesignPattern/Diagram/ClassDiagram.png)
+![ClassDiagram](https://github.com/i-ravi/SystemDesign/blob/main/ObservableDesignPattern/diagram/ObseverClassDiagram.png)

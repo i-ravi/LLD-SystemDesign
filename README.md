@@ -26,3 +26,5 @@ Applications :
 - Distributed Systems: Facilitating communication between distributed components by notifying them about changes or events.
 - Monitoring and Logging Systems: Tracking system events and gathering performance metrics by subscribing to specific events or log entries.
 - Reactive Programming: Reacting to changes in data streams in reactive programming paradigms, enabling responsive and scalable applications.
+
+![ClassDiagram](https://github.com/i-ravi/SystemDesign/blob/main/ObservableDesignPattern/Diagram/ClassDiagram.png)

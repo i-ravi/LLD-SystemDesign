@@ -13,6 +13,9 @@ Applications :
 - Synchronization Proxies: Coordinate concurrent access to resources.
 - Smart References: Manage additional functionalities like reference counting or error handling.
 
+### Class Diagram
+![ClassDiagram](https://github.com/i-ravi/SystemDesign/blob/main/ProxyDesignPattern/Diagram/ClassDiagram.png)
+
 ## Observable Design Pattern
 The Observable design pattern establishes a relationship between objects where one object (the observable or subject) notifies its dependents (observers) of any state changes, enabling them to react accordingly. This pattern promotes loose coupling by allowing observers to subscribe to or unsubscribe from the observable without requiring direct knowledge of its implementation. It's commonly used in event-driven architectures, GUI frameworks, and reactive programming paradigms to facilitate efficient communication and update propagation within software systems.
 

@@ -1,5 +1,5 @@
-# SystemDesign
-Check out my System Design Repository on GitHub! Discover expert insights, tutorials, case studies, and best practices for building scalable software architectures. Explore diagrams, real-world examples, and open-source contributions. Join me in shaping resilient systems!
+# LLD SystemDesign
+Check out my LLD System Design Repository on GitHub! Discover expert insights, tutorials, case studies, and best practices for building scalable software architectures. Explore diagrams, real-world examples, and open-source contributions. Join me in shaping resilient systems!
 
 ## Proxy Design Pattern
 The Proxy design pattern provides a surrogate or placeholder for another object to control access to it. It acts as an intermediary, allowing clients to interact with the proxy instead of the actual object. This enables additional functionalities such as lazy initialization, access control, logging, or caching without altering the core functionality of the original object. The Proxy pattern enhances modularity, security, and performance by managing object creation and access transparently to the client. It's commonly employed in scenarios involving remote services, expensive resource management, or implementing access control mechanisms.

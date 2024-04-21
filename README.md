@@ -1,4 +1,4 @@
-# LLD SystemDesign
+# LLD System Design
 Check out my LLD System Design Repository on GitHub! Discover expert insights, tutorials, case studies, and best practices for building scalable software architectures. Explore diagrams, real-world examples, and open-source contributions. Join me in shaping resilient systems!
 
 ## Proxy Design Pattern
@@ -27,4 +27,5 @@ Applications :
 - Monitoring and Logging Systems: Tracking system events and gathering performance metrics by subscribing to specific events or log entries.
 - Reactive Programming: Reacting to changes in data streams in reactive programming paradigms, enabling responsive and scalable applications.
 
+### Class Diagram
 ![ClassDiagram](https://github.com/i-ravi/SystemDesign/blob/main/ObservableDesignPattern/diagram/ObseverClassDiagram.png)

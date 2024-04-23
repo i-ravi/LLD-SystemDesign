@@ -41,4 +41,4 @@ Applications:
 - Fallback Mechanisms: Using Null Objects as fallbacks for disabled or unavailable features in feature toggling frameworks.
 
 ### Class Diagram
-![ClassDiagram](https://github.com/i-ravi/SystemDesign/blob/main/NullObjectDesignPattern/diagram/NullObjectClassDiagram.png)
+![ClassDiagram](https://github.com/i-ravi/LLD-SystemDesign/blob/main/NullObjectDesignPattern/diagram/NullObjectClassDiagram.png)

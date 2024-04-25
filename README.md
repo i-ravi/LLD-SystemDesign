@@ -42,3 +42,6 @@ Applications:
 
 ### Class Diagram
 ![ClassDiagram](https://github.com/i-ravi/LLD-SystemDesign/blob/main/NullObjectDesignPattern/diagram/NullObjectClassDiagram.png)
+
+# Chain Responsibility Pattern
+The Chain of Responsibility design pattern allows an object to pass a request along a chain of handlers until it's handled by one of them. Each handler decides either to process the request or pass it to the next handler in the chain. This pattern promotes loose coupling between senders and receivers of a request, as any handler can handle the request without knowing the full chain.

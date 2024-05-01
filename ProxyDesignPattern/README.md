@@ -11,4 +11,4 @@ Applications :
 - Smart References: Manage additional functionalities like reference counting or error handling.
 
 ### UML Diagram
-![UMLDiagram](https://github.com/i-ravi/SystemDesign/blob/main/ProxyDesignPattern/diagram/ProxyClassUML.png)
+![UMLDiagram](https://github.com/i-ravi/SystemDesign/blob/main/ProxyDesignPattern/diagram/ProxyUML.png)

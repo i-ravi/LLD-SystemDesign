@@ -9,4 +9,5 @@ Applications:
 - Game Character Behavior: In video games, characters may have different behaviors based on their current state (e.g., attacking, defending, or idle). The State Pattern can be used to manage these behaviors and switch between them dynamically.
 - User Authentication System: A user authentication system may have states such as logged in, logged out, or locked out. The State Pattern can handle these states and manage user interactions accordingly, such as allowing access to certain features only when logged in.
 
-- There could be more such examples for this pattern. 🚀
+
+There could be more such examples for this pattern. 🚀

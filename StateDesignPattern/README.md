@@ -11,3 +11,5 @@ Applications:
 
 
 There could be more such examples for this pattern. 🚀
+
+![UMLDiagram](https://github.com/i-ravi/SystemDesign/blob/main/StateDesignPattern/diagram/StateDesignUML.png)

@@ -1,0 +1,2 @@
+# Builder Design Pattern
+The Builder Design Pattern separates the construction of complex objects from their representation. It involves a builder interface or abstract class defining construction steps, concrete builders implementing those steps, a director orchestrating the process, and the product being constructed. This pattern is useful for creating objects with many optional parameters, allowing for flexible and clear construction logic.
